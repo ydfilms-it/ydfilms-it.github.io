@@ -1,5 +1,5 @@
 <script setup>
-import Navbar from './components/Navbar.vue'
+import NavBar from './components/NavBar.vue'
 import Bottom from './components/Bottom.vue'
 import Home from './components/Home.vue'
 import Contact from './components/Contact.vue'
@@ -8,7 +8,7 @@ import Contact from './components/Contact.vue'
 
 </script>
 <template>
-  <Navbar />
+  <NavBar />
   <main class="my-0 mx-auto" :style="{marginTop:-headerheight+'px'}">
     <component :is="currentView" />
   </main>
