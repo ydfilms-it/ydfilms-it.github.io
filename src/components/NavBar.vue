@@ -27,7 +27,7 @@ import CustomButton from './UI/CustomButton.vue'
   <!-- Put this part before </body> tag -->
   <input type="checkbox" id="my-modal-3" class="modal-toggle" />
   <div class="modal">
-    <div class="relative min-h-screen min-w-full rounded-none bg-black text-white">
+    <div class="modal-box min-h-full min-w-full rounded-none bg-black text-white">
       <label for="my-modal-3" class="absolute top-8 right-8">
         <font-awesome-icon class="w-12 h-12" icon="fa-solid fa-xmark" />
       </label>
