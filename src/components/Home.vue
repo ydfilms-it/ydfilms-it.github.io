@@ -44,10 +44,10 @@ import Card from './UI/Card.vue'
         <div class="hero min-h-[45%] bg-[#E5DAD5] text-[#4F3D20]">
           <div class="hero-content flex-col lg:flex-row pb-20">
             <div class="max-w-lg">
-              <h1 class="text-5xl font-bold">WHO ARE YOUR VIDEOGRAPHERS</h1>
+              <h1 class="text-4xl font-bold">WHO ARE YOUR VIDEOGRAPHERS</h1>
             </div>
             <div class="max-w-lg">
-              <h1 class="pt-6">We’re Xirui+Wenbo</h1>
+              <h1 class="pt-6 text-4xl font-bold">We’re Xirui+Wenbo</h1>
               <p class="py-6">Married Marriage Videographers//Storytellers//Outdoorsy//</p>
               <p><CustomButton title="LEARN MORE ABOUT US" links="#" showunderline hoverunderline /></p>
             </div>
